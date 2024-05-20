@@ -1,3 +1,3 @@
 Demo
 
-Tring out github.
+Tring out github!
